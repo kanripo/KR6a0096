@@ -1,5 +1,5 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 19:30:44.127467
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 6:35
 #+TITLE: 治意經
 #+PROPERTY: CBETA_ID T01n0096
 #+PROPERTY: ID KR6a0096
